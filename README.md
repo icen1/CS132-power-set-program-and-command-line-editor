@@ -25,3 +25,5 @@ for example you can have ```./a create show list insertLine exit ```
 This will create a file then read a file then list all the files in the current directory 
 then insert line to a file and then exits the program. 
 
+# Important note
+This code was added here to show my skill of using the C programming language and logical thinking. You are NOT allowed to copy this code for any coursework/graded material unless your direct teachers EXPLICITLY agree to it, if they do you will still have to reference it, if so refer to me as 'Zeyada I.' , and link the github page.
