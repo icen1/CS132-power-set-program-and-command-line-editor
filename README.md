@@ -7,17 +7,29 @@ otherwise they will be treated as one element
 
 # Command line editor
 Commands available:
+
 create - Creates a file and overwrites the file if it exists
+
 copy – Copies the content of a file to another
+
 delete – Deletes a file 
+
 show – Reads the content of a file
+
 append – Adds a line at the end of the file
+
 deleteLine – Deletes a line of the user choice from a file
+
 insertLine – Inserts a line of the user choice to a file in whichever line they want
+
 showLine – Read a single line from a file
+
 list – List all the contents of the current folder including (includes hidden files and directories)
+
 find – Finds the first occurrence of a word in a file
+
 exit – Closes the program
+
 
 Commands are case sensitive and need to be written exactly as stated. 
 They can also be chained together, 
